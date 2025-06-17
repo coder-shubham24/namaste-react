@@ -1,0 +1,30 @@
+{
+  "name": "namste-react",
+  "version": "1.0.0",
+  "description": "react learnings",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coder-shubham24/namaste-react.git"
+  },
+  "keywords": [
+    "react",
+    "shubham",
+    "patil"
+  ],
+  "author": "shubham patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coder-shubham24/namaste-react/issues"
+  },
+  "homepage": "https://github.com/coder-shubham24/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
