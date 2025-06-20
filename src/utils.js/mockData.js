@@ -56,7 +56,7 @@ const resList = [
       restaurantOfferPresentationInfo: {},
       externalRatings: {
         aggregatedRating: {
-          rating: "--",
+          rating: "3.5",
         },
       },
       ratingsDisplayPreference: "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
@@ -128,7 +128,7 @@ const resList = [
       restaurantOfferPresentationInfo: {},
       externalRatings: {
         aggregatedRating: {
-          rating: "--",
+          rating: "3.8",
         },
       },
       ratingsDisplayPreference: "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
@@ -209,7 +209,7 @@ const resList = [
       restaurantOfferPresentationInfo: {},
       externalRatings: {
         aggregatedRating: {
-          rating: "--",
+          rating: "2.9",
         },
       },
       ratingsDisplayPreference: "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
@@ -298,7 +298,7 @@ const resList = [
       restaurantOfferPresentationInfo: {},
       externalRatings: {
         aggregatedRating: {
-          rating: "--",
+          rating: "4.4",
         },
       },
       ratingsDisplayPreference: "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
@@ -386,7 +386,7 @@ const resList = [
       restaurantOfferPresentationInfo: {},
       externalRatings: {
         aggregatedRating: {
-          rating: "--",
+          rating: "3.0",
         },
       },
       ratingsDisplayPreference: "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
@@ -423,7 +423,7 @@ const resList = [
       ],
       veg: true,
       parentId: "530959",
-      avgRatingString: "--",
+      avgRatingString: "2.5",
       sla: {
         deliveryTime: 51,
         lastMileTravel: 12.4,
@@ -466,7 +466,7 @@ const resList = [
       restaurantOfferPresentationInfo: {},
       externalRatings: {
         aggregatedRating: {
-          rating: "--",
+          rating: "4.0",
         },
       },
       ratingsDisplayPreference: "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
@@ -545,7 +545,7 @@ const resList = [
       restaurantOfferPresentationInfo: {},
       externalRatings: {
         aggregatedRating: {
-          rating: "--",
+          rating: "3.8",
         },
       },
       ratingsDisplayPreference: "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
@@ -573,7 +573,7 @@ const resList = [
       cuisines: ["Indian", "Cafe"],
       veg: true,
       parentId: "573675",
-      avgRatingString: "--",
+      avgRatingString: "3.3",
       sla: {
         deliveryTime: 48,
         lastMileTravel: 11.8,
@@ -616,7 +616,7 @@ const resList = [
       restaurantOfferPresentationInfo: {},
       externalRatings: {
         aggregatedRating: {
-          rating: "--",
+          rating: "4.5",
         },
       },
       ratingsDisplayPreference: "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
@@ -642,7 +642,7 @@ const resList = [
       costForTwo: "₹200 for two",
       cuisines: ["Biryani", " North Indian", " Chinese", " Fast Food"],
       parentId: "500685",
-      avgRatingString: "--",
+      avgRatingString: "2.9",
       sla: {
         deliveryTime: 58,
         lastMileTravel: 14.5,
@@ -736,7 +736,7 @@ const resList = [
       cuisines: ["South Indian", "Fast Food"],
       veg: true,
       parentId: "557138",
-      avgRatingString: "--",
+      avgRatingString: "3.6",
       sla: {
         deliveryTime: 52,
         lastMileTravel: 11.5,
@@ -795,7 +795,7 @@ const resList = [
       restaurantOfferPresentationInfo: {},
       externalRatings: {
         aggregatedRating: {
-          rating: "--",
+          rating: "4.9",
         },
       },
       ratingsDisplayPreference: "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
@@ -883,7 +883,7 @@ const resList = [
       restaurantOfferPresentationInfo: {},
       externalRatings: {
         aggregatedRating: {
-          rating: "--",
+          rating: "3.0",
         },
       },
       ratingsDisplayPreference: "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
@@ -969,7 +969,7 @@ const resList = [
       restaurantOfferPresentationInfo: {},
       externalRatings: {
         aggregatedRating: {
-          rating: "--",
+          rating: "4.0",
         },
       },
       ratingsDisplayPreference: "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
@@ -1055,7 +1055,7 @@ const resList = [
       restaurantOfferPresentationInfo: {},
       externalRatings: {
         aggregatedRating: {
-          rating: "--",
+          rating: "5.0",
         },
       },
       ratingsDisplayPreference: "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
@@ -1141,7 +1141,7 @@ const resList = [
       restaurantOfferPresentationInfo: {},
       externalRatings: {
         aggregatedRating: {
-          rating: "--",
+          rating: "4.4",
         },
       },
       ratingsDisplayPreference: "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
