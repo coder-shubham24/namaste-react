@@ -2,7 +2,7 @@ import { CDN_URL } from "../utils.js/constants";
 
 const ResCard = (props) => {
     const {resData} = props
-    console.log(resData?.info)
+    // console.log(resData?.info)
 
     const {name, cloudinaryImageId, cuisines, avgRating, avgRatingString } = resData?.info
   return (
